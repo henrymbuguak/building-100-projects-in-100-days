@@ -1,6 +1,6 @@
 # Hangman Game
 
-This Python program implements a simple version of the classic hangman game. The user tries to guess a randomly chosen word by suggesting letters within a certain number of attempts. For each incorrect guess, a part of a hangman is drawn. The game ends when the user either correctly guesses the word or runs out of guesses, resulting in the completion of the hangman drawing.
+This Python program implements a simple version of the [classic hangman game](https://en.wikipedia.org/wiki/Hangman_(game)). The user tries to guess a randomly chosen word by suggesting letters within a certain number of attempts. For each incorrect guess, a part of a hangman is drawn. The game ends when the user either correctly guesses the word or runs out of guesses, resulting in the completion of the hangman drawing.
 
 The program includes:
 
@@ -13,7 +13,7 @@ The program includes:
 
 ### Prerequisites
 
-- Python 3.12 installed on your system.
+- [Python 3.12](https://www.python.org/downloads/) installed on your system.
 
 ### Steps to Create a Python 3.12 Virtual Environment
 
@@ -51,14 +51,16 @@ The program includes:
 1. Run the code.
 
     ```shell
-
+    python main.py
     ```
 
-Game Play
+## Game Play
+
 The program will randomly select a word from the predefined list.
 You will be prompted to guess letters one by one.
 Correct guesses will reveal the letter in the word.
 Incorrect guesses will result in the drawing of a hangman. You have 6 incorrect guesses before the game ends.
 The game will provide feedback if you have already guessed a letter.
 The game continues until you either guess the word correctly or run out of guesses.
+
 Enjoy playing the hangman game!
