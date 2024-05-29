@@ -41,8 +41,6 @@ This program lets you encrypt or decrypt a message using the Caesar cipher techn
     
 1. Run the Program:
 
-    - Execute the program by typing:
-
     ```shell
     python3 main.py
     ```
