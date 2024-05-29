@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Caesar cipher is one of the simplest and most well-known encryption techniques. Named after Julius Caesar, who used it in his private correspondence, the Caesar cipher works by shifting each letter of the plaintext by a fixed number of positions down the alphabet. Despite its historical significance, the Caesar cipher is easy to break and primarily serves as an educational tool to introduce the concept of encryption.
+The [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher) is one of the simplest and most well-known encryption techniques. Named after Julius Caesar, who used it in his private correspondence, the Caesar cipher works by shifting each letter of the plaintext by a fixed number of positions down the alphabet. Despite its historical significance, the Caesar cipher is easy to break and primarily serves as an educational tool to introduce the concept of encryption.
 
 This program is a simplified version of the Caesar cipher. It allows users to both encrypt and decrypt messages by shifting the letters by a user-defined number of positions.
 
