@@ -3,6 +3,18 @@ import ceasar_art
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
 def caesar_cipher(text, shift, direction):
+    """
+    This function performs a Caesar cipher shift on the input text.
+    
+    Parameters:
+    text (str): The message to be encrypted or decrypted.
+    shift (int): The number of positions to shift the letters.
+    direction (str): 'encode' to encrypt, 'decode' to decrypt.
+    
+    Returns:
+    str: The resulting text after the shift.
+    """
+        
     shifted_text = ""
     if direction == "decode":
         shift = -shift
@@ -16,6 +28,10 @@ def caesar_cipher(text, shift, direction):
     return shifted_text
 
 def main():
+    """
+    The main function to run the Caesar cipher program.
+    It repeatedly asks the user for input and processes it until the user decides to stop.
+    """
     print(ceasar_art.logo)
     while True:
         direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n").lower()
@@ -34,5 +50,6 @@ def main():
             print("Goodbye!")
             break
 
+# Run the main function if the script is executed directly
 if __name__ == "__main__":
     main()
