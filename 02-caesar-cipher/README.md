@@ -25,13 +25,11 @@ This program lets you encrypt or decrypt a message using the Caesar cipher techn
 
 ## How to Run the Code
 
-1. **Save the Code**: Save the provided code in a file named `main.py`.
-
-1. **Open Terminal**:
-   - On macOS, press `Command + Space`, type "Terminal", and press Enter.
-
+1. **Open Terminal**
 1. **Navigate to the Directory**:
+
    - Use the `cd` command to navigate to the directory where you saved `main.py`. For example:
+
      ```sh
      cd path/to/your/directory
      ```
@@ -43,6 +41,7 @@ This program lets you encrypt or decrypt a message using the Caesar cipher techn
      ```
 
 1. **Follow the Prompts**:
+
    - The program will prompt you to enter the direction (`encode` to encrypt, `decode` to decrypt), your message text, and the shift number.
    - After processing the input, the program will display the encrypted or decrypted text.
    - You will be asked if you want to run the program again. Type `yes` to continue or `no` to exit.
