@@ -19,6 +19,8 @@ Welcome to the "Building 100 Projects in 100 Days" repository! This project aims
 1. [01-Hangman](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/01-hangman): A classic hangman game.
 1. [02-Caesar Cipher](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/02-caesar-cipher): An encryption and decryption tool using the Caesar cipher method.
 1. [03-first-price-sealed-blind-auction](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/03-first-price-sealed-blind-auction): A simplified first-price sealed-bid auction.
+1. [04-Calculator](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/04-calculator): 
+The Calculator Program computes interactive arithmetic and square root operations.
 1. More projects to be added daily.
 
 
