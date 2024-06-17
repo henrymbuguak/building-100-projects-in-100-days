@@ -22,6 +22,7 @@ Welcome to the "Building 100 Projects in 100 Days" repository! This project aims
 1. [04-Calculator](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/04-calculator): 
 The Calculator Program computes interactive arithmetic and square root operations.
 1. [05-twenty-one](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/05-twenty-one): Play a simplified version of Blackjack against the computer.
+1. [06-guess-number](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/06-guess-number): A simplified version of Guess the Number Game.
 1. More projects to be added daily.
 
 

@@ -44,7 +44,7 @@ Follow these steps to run the Calculator Program:
     ```sh
     python main.py
     ```
-1. Follow On-Screen Prompts: The program will prompt you to input numbers and select operations. Follow the instructions to perform calculations.
+1. Follow On-Screen Prompts.
 
 ## Example Usage
 
