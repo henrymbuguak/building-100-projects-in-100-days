@@ -80,4 +80,6 @@ Who has more followers? Type 'A' or 'B':
 
 ```
 
+Follow the on-screen prompts to play the game. 
+
 Enjoy testing your knowledge of follower counts!
