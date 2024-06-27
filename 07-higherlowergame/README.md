@@ -6,6 +6,7 @@ Welcome to the Higher Lower Game! This is a simplified version of the [Higher Lo
 
 The Higher Lower Game challenges you to guess which of two options has more followers. Test your knowledge and see how high you can score!
 
+## Prerequisites
 
 - [Python 3.12](https://www.python.org/downloads/) installed on your system.
 
