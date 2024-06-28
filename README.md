@@ -24,6 +24,7 @@ The Calculator Program computes interactive arithmetic and square root operation
 1. [05-twenty-one](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/05-twenty-one): Play a simplified version of Blackjack against the computer.
 1. [06-guess-number](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/06-guess-number): A simplified version of Guess the Number Game.
 1. [07-higherlowergame](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/07-higherlowergame): A simplified version of Higher Lower Game.
+1. [08-digital-coffee-machine](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/08-digital-coffee-machine): A simplified Coffee Shop Simulator.
 1. More projects to be added daily.
 
 

@@ -33,7 +33,7 @@ This program displays two items with their descriptions and asks the player to g
 
 ## How to Run the Code
 
-Follow these steps to run the Calculator Program:
+Follow these steps to run the Higher Lower Game Program:
 
 1. Open your terminal or command prompt.
 1. Download the code using the following command:
