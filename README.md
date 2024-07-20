@@ -26,7 +26,8 @@ The Calculator Program computes interactive arithmetic and square root operation
 1. [07-higherlowergame](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/07-higherlowergame): A simplified version of Higher Lower Game.
 1. [08-digital-coffee-machine](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/08-digital-coffee-machine): A simplified Coffee Shop Simulator.
 1. [09-digital-coffee-machine-in-oop](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/09-digital-coffee-machine-in-oop): Coffee Machine Simulation with OOP
-1. [10-turtle-drawing-patterns](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/10-turtle-drawing-patterns): Turtle Graphics Drawing Program
+1. [10-turtle-drawing-patterns](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/10-turtle-drawing-patterns): Turtle Graphics Drawing Program.
+1. [11-quiz-game](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/11-quiz-game): OOP Quiz Game
 1. More projects to be added daily.
 
 
