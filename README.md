@@ -28,6 +28,7 @@ The Calculator Program computes interactive arithmetic and square root operation
 1. [09-digital-coffee-machine-in-oop](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/09-digital-coffee-machine-in-oop): Coffee Machine Simulation with OOP
 1. [10-turtle-drawing-patterns](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/10-turtle-drawing-patterns): Turtle Graphics Drawing Program.
 1. [11-quiz-game](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/11-quiz-game): OOP Quiz Game
+1. [12-painting-project](https://github.com/henrymbuguak/building-100-projects-in-100-days/tree/main/12-painting-project): Turtle Graphics Color Extraction and Painting Program
 1. More projects to be added daily.
 
 
